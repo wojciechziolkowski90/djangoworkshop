@@ -1,2 +1,2 @@
 # djangoworkshop
-First Django project: Conference room booking application
+First Django project "Your Conference Room": Conference room booking application "BussinessMeetingApp"
