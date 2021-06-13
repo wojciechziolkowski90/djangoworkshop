@@ -1,0 +1,2 @@
+# djangoworkshop
+First Django project
